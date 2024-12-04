@@ -1,0 +1,14 @@
+.rockContainer {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    border: 16px solid #27AE60;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    grid-column: 3;
+}
+
+.rockWrapper {
+    background-color: #fff;
+}

@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container .scorePointsContainer {
+    width: 819px;
+    height: 88px;
+    background-color: #fff;
+    border: 2px solid #BDC3C7;
+    border-radius: 8px;
+}
+
+.container .movesWrapper {
+    padding: 2rem;
+    display: grid;
+    grid-template-columns: repeat(200px, 1fr);
+}

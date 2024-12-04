@@ -1,0 +1,15 @@
+.paperContainer {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    border: 16px solid #F1C40F;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    grid-row: 2;
+    grid-column: 2;
+}
+
+.paperWrapper {
+    background-color: #fff;
+}

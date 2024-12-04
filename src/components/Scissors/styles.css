@@ -1,0 +1,13 @@
+.scissorsContainer {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    border: 16px solid #1680c7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.scissorsWrapper {
+    background-color: #fff;
+}
